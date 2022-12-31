@@ -12,7 +12,8 @@ body{
 }
 
 .container1{
-    background-image: url(https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080-3080ti/geforce-rtx-3080-ti-hero-background-image-spec2-bb770_550-d.jpg);
+    background-image: url(https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3070-3070ti/geforce-rtx-3070-ti-hero-background-image-spec2-bb770_550-d@2x.jpg);
+    background-size: 2400px 100%;
     display: flex;
     margin: -10px 0 0 0;
     background-color: #000000;
