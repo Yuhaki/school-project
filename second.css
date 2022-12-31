@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    background-color: #000000;
+}
+#store{
+    color: #f9f9f9;
+    margin: 35px 0 0 50px;
+}
+
+.logo{
+    margin-left: 10px;
+}
+
+.container1{
+    background-image: url(https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-ti-hero-background-image-spec2-bb770_550-d.jpg);
+    display: flex;
+    margin: 0 0 0 0;
+    background-color: #000000;
+    width: 100%;
+    height: 750px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#glavno{
+    margin: 200px 0 0 105px;
+    color: #f9f9f9;
+}
+
+#text{
+    color:#f5f3f4;
+    margin: 300px 0 0 -145px;
+}
+
+h3{
+    margin: 250px 0 0 -410px;
+    color: #f9f9f9;
+    font-size: 25px;
+}
+
+.container2{
+    margin-top: -22px;
+    height: 575px;
+    background-image: url(https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-esports-background-image-spec2-bb580_440-d.jpg);
+    margin: 0 0 50px 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.victory{
+    color: #f5f3f4;
+    margin: 30px 0 0 100px;
+}
+
+.text1{
+    margin: 50px 0 0 40px;
+    color: #f5f3f4;
+}
+
+a{
+    text-decoration: none;
+    color: #f5f3f4;
+    padding: 12px 9px 12px 9px;
+    background-color: #76b900;
+}
+#back{
+    margin: 100px 0 0 -300px;
+    padding: 3px 1px 3px 1px;
+}
