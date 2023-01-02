@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    width: 100vw;
+    height: 100vh;
     background-color: #ffffff;
 }
 #store{
@@ -36,7 +38,6 @@ body{
 }
 
 #gaming{
-    position: relative;
     margin: 50px 0 0 900px;
     color: #76b900;
     font-weight: bold;
@@ -88,3 +89,48 @@ a{
 .buttonche{
     color: white;
 }
+
+@media only screen and (max-width: 1600px) {
+    #gaming{
+        margin: 50px 0 0 725px;
+        color: #76b900;
+        font-weight: bold;
+    }
+    
+    #text2{
+        margin: 120px 0 0 -475px;
+    }
+    
+    
+    #learn
+    {
+        color: white;
+        margin: 220px 0 0 -600px;
+        background-color: #76b900;
+        padding: 12px 10px 12px 10px;
+        font-weight: bold;
+    }
+  }
+
+
+  @media only screen and (max-width: 1680px) {
+    #gaming{
+        margin: 50px 0 0 765px;
+        color: #76b900;
+        font-weight: bold;
+    }
+    
+    #text2{
+        margin: 120px 0 0 -475px;
+    }
+    
+    
+    #learn
+    {
+        color: white;
+        margin: 220px 0 0 -600px;
+        background-color: #76b900;
+        padding: 12px 10px 12px 10px;
+        font-weight: bold;
+    }
+  }
